@@ -26,7 +26,7 @@ setup(
     long_description=long_description,
     author_email='newpanjing@icloud.com',
     description='django admin theme 后台模板',
-    install_requires=['django'],
+    #install_requires=['django'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
